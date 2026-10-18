@@ -1,0 +1,6 @@
+{
+  "name": "ZimJobs & Gigs",
+  "description": "Zimbabwe's verified job board and side-gig portal for finding legitimate work, part-time jobs, and local opportunities with anti-scam protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
